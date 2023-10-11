@@ -132,7 +132,7 @@ class _Slide extends StatelessWidget {
                         ));
                   }
                   return GestureDetector(
-                    onTap: () => context.go('/movie/${movie.id}'),
+                    onTap: () => context.go('/home/0/movie/${movie.id}'),
                     child: FadeIn(child: child),
                   );
                   
