@@ -1,4 +1,4 @@
-package com.example.cinemapedia
+package com.javiergarcia.cinemapedia
 
 import io.flutter.embedding.android.FlutterActivity
 
