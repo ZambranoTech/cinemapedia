@@ -1,3 +1,9 @@
+[![1.png](https://i.postimg.cc/G2h2Wp7v/1.png)](https://postimg.cc/zL68Wq1f)
+
+
+
+
+
 # cinemapedia
 
 # Dev
